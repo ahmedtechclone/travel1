@@ -19,7 +19,7 @@ export default function Index() {
             <Image
               source={require("../assets/images/logo.png")}
             />
-            <Text className="text-center text-4xl font-bold mt-5">Peshot </Text>
+            <Text className="text-center text-4xl font-bold mt-5">Peshot</Text>
             <Text className="text-center mt-4 text-sm">Welcome to peshot
             Book easy and cheap hotels only on Peshot</Text>
           </View>
